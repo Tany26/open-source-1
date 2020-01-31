@@ -1,7 +1,7 @@
 # open-source
-Open source workshop
+Workshop about first time contribution to open source - https://mei-li.github.io/open-source/
 
-# View presentation
+# View presentation locally
 
 `git clone git@github.com:mei-li/open-source.git`
 
